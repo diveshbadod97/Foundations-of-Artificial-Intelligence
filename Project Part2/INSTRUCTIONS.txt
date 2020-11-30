@@ -1,0 +1,14 @@
+To run the application start the pr2_DiveshBadod.jar executable file
+
+
+
+To look at the code go in the folder named src the pr2.DiveshBadod.java is the main java file
+
+
+
+The rules.clp file is the rules for jess engine
+
+
+
+Read the documentation provided for user guide
+(Read the testing description and user guide carefully from the documentation)
